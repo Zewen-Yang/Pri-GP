@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 instruction.md
-FunctionDemo.ipynb
+DemoSystem.ipynb
+DemoFunction.ipynb
 demo.ipynb
 # C extensions
 *.so

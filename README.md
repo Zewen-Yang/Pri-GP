@@ -1,6 +1,6 @@
 # [AAMAS 2024] Whom to Trust? Elective Learning for Distributed Gaussian Process Regression
-
-# Pri-GP: Prior-Aware Distributed Gaussian Process Regression
+<!-- 
+# Pri-GP: Prior-Aware Distributed Gaussian Process Regression -->
 
 ## Install Pri-GP package
 ```

@@ -1,6 +1,8 @@
+# Copyright (c) by Zewen Yang under GPL-3.0 license
+# Last modified: Zewen Yang 02/2024
+
 from setuptools import find_packages, setup
 from typing import List
-
 
 HYPEN_E_DOT='-e .'
 def get_requirements(file_path:str)->List[str]:
@@ -15,7 +17,6 @@ def get_requirements(file_path:str)->List[str]:
         if HYPEN_E_DOT in requirements:
             requirements.remove(HYPEN_E_DOT)
     return requirements
-
 
 setup(
     name="PriGP",

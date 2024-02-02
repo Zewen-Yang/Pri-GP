@@ -2,6 +2,7 @@
 # Last modified: Zewen Yang 02/2024
 
 import numpy as np
+import numpy.matlib
 from ensure import ensure_annotations
 from typing import List, Tuple
 

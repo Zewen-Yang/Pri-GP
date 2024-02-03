@@ -3,9 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 instruction.md
-DemoSystem.ipynb
-DemoFunction.ipynb
-demo.ipynb
+research/
 # C extensions
 *.so
 

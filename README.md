@@ -28,4 +28,13 @@ location = {, Auckland, New Zealand, },
 series = {AAMAS '24}
 }
 ```
+### Extended Version
+```
+@article{yang2024pri,
+  title={Pri-GP: Prior-Aware Distributed Gaussian Process Regression},
+  author={Yang, Zewen and Dai, Xiaobing and Dubey, Akshat and Hirche, Sandra and Hattab, Georges},
+  year={2024}
+}
+```
+
 

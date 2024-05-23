@@ -162,9 +162,9 @@ axs1[0,0].set_ylabel(r"$\tilde{f}(x)$", fontsize=14)
 axs1[1,0].set_xlabel("$x$", fontsize=14) 
 axs1[1,0].set_ylabel(r"$\tilde{f}(x)$", fontsize=14)
 axs1[1,1].set_xlabel("$x$", fontsize=14) 
-legend_labels = [r"Training points", r'True', r'Prior', r'POE', r'Pri-GP']
+legend_labels = [r"Training points", r'True', r'Prior', r'POE', r'Pri-GP(c=1)']
 fig1.legend(labels = legend_labels, loc='upper center', bbox_to_anchor=(0.5, 1.08), fontsize=12, ncol=66)
-plt.rcParams['figure.figsize'] = [10, 4]
+plt.rcParams['figure.figsize'] = [16, 4]
 plt.tight_layout()
 plt.show()
 
